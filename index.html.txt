@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Network Project</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Networking Project</h1>
+<p>Team: Timothy Kindell</p>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="networking.html">Networking Concepts</a>
+<a href="about.html">About</a>
+</nav>
+
+<p>This website demonstrates networking concepts including DNS, IP addressing, and protocols.</p>
+
+</body>
+</html>
