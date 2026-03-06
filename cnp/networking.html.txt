@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Networking Concepts</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Networking Concepts</h1>
+
+<h2>DNS Resolution</h2>
+<p>DNS converts domain names into IP addresses.</p>
+
+<pre>
+nslookup google.com
+</pre>
+
+<h2>IP Addressing</h2>
+
+<p>Example IPv4:</p>
